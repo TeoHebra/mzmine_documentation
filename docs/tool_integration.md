@@ -13,7 +13,7 @@
 | [MetDNA](http://metdna.zhulab.cn/) | [Doc](https://github.com/ZhuMetLab/MetDNA2_Web/blob/main/Tutorials/Tutorial_data_preprocessing_MZmine.pdf) | Export to CSV (legacy) | .csv | Export any row (averaged) and feature (per sample) types to a tabular format |
 | [NeatMS](https://github.com/bihealth/NeatMS) | [Doc](https://neatms.readthedocs.io/en/latest/first-steps/data-format/) | Export to CSV (legacy) | .csv | Export any row (averaged) and feature (per sample) types to a tabular format |
 | [mzRAPP](https://github.com/YasinEl/mzRAPP#exporting-npp-outputs-from-different-tools) | [Doc](https://github.com/YasinEl/mzRAPP#exporting-npp-outputs-from-different-tools) | Export to CSV (legacy) | .csv | Export any row (averaged) and feature (per sample) types to a tabular format |
-
+| [MetGem](https://metgem.github.io/) | [Doc](https://metgem.readthedocs.io/en/latest/) | Export/submit GNPS-FBMN | .mgf<br>_quant.csv | - Contains one representative MS2 spectrum per feature<br>- The feature list as an intensity (area/height) matrix |
 
 
 
