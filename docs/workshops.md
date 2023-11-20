@@ -4,6 +4,7 @@
 
 | Venue        | Description          | Dates | Speakers/Instructors | Material | Estimated Attendance |
 | ------------- |-------------| -----| -----| -----| ----- |
+| Ste-Foy-les-Lyon, France |French Automnal School 2023 from Réseau Francophone de Métabolomique et Fluxomique| 26-10-2023|Téo Hebra, Samuel Bertrand| 30 | ----- |
 | Helmholtz, Munich, Germany | Munich Metabolomics Meeting: MZmine workshop | 2023-10-12 | Robin Schmid, Corinna Brungs |  | 150+ |
 | SSI, Copenhagen, Denmark | International Summer School on Non-Targeted Metabolomics 2023 | 2023-08 | Steffen Heuckeroth, Corinna Brungs, Robin Schmid, Daniel Petras, and many more | [Playlist](https://www.youtube.com/watch?v=MmUY5qCz8eo&list=PL0JAF-4UFc8Oo6MMEnMI1HKgRTcM1-uHX&index=11) | 75 (+150 online) |
 | DTU, Copenhagen, Denmark | Computational mass spectrometry and spectral library generation in MZmine | 2023-08 | Corinna Brungs, Robin Schmid |  | 50 |
